@@ -1,6 +1,6 @@
 ---
 id: composition-vs-inheritance
-title: Composition vs Inheritance
+title: கலவை மற்றும் மரபுவழிபேராளின் வேறுபாடு
 permalink: docs/composition-vs-inheritance.html
 redirect_from:
   - "docs/multiple-components.html"
